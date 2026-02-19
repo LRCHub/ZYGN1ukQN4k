@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Closer (T-Mass Remix)",
+  "base_artist": "The Chainsmokers",
+  "createdAt": "2026-02-19T04:27:20.917155Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Closer (T‐Mass remix)",
+      "artist": "The Chainsmokers",
+      "has_synced": false,
+      "path": "select/01_Closer_(T‐Mass_remix)_The_Chainsmokers.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Closer (T-Mass Remix)",
+      "artist": "The Chainsmokers",
+      "has_synced": false,
+      "path": "select/02_Closer_(T-Mass_Remix)_The_Chainsmokers.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Closer (T‐Mass remix)",
+      "artist": "The Chainsmokers",
+      "has_synced": true,
+      "path": "select/03_Closer_(T‐Mass_remix)_The_Chainsmokers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Closer (T-Mass Remix)",
+      "artist": "The Chainsmokers/Halsey",
+      "has_synced": false,
+      "path": "select/04_Closer_(T-Mass_Remix)_The_Chainsmokers_Halsey.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Closer (T-Mass Remix)",
+      "artist": "The Chainsmokers; Halsey",
+      "has_synced": false,
+      "path": "select/05_Closer_(T-Mass_Remix)_The_Chainsmokers;_Halsey.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Closer (T‐Mass remix)",
+      "artist": "The Chainsmokers ft. Halsey",
+      "has_synced": true,
+      "path": "select/06_Closer_(T‐Mass_remix)_The_Chainsmokers_ft._Halsey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Closer (T-Mass Remix) (feat. Halsey)",
+      "artist": "The Chainsmokers",
+      "has_synced": false,
+      "path": "select/07_Closer_(T-Mass_Remix)_(feat._Halsey)_The_Chainsmokers.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Closer - T-Mass Remix",
+      "artist": "The Chainsmokers/Halsey/T-Mass",
+      "has_synced": true,
+      "path": "select/08_Closer_-_T-Mass_Remix_The_Chainsmokers_Halsey_T-Mass.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Closer - T-Mass Remix",
+      "artist": "The Chainsmokers feat. Halsey & T-Mass",
+      "has_synced": true,
+      "path": "select/09_Closer_-_T-Mass_Remix_The_Chainsmokers_feat._Halsey_&_T-Mass.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Closer (T-Mass Remix)",
+      "artist": "The Chainsmokers & Halsey",
+      "has_synced": false,
+      "path": "select/10_Closer_(T-Mass_Remix)_The_Chainsmokers_&_Halsey.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Closer (T-Mass Remix)",
+      "artist": "The Chainsmokers ft. Halsey",
+      "has_synced": false,
+      "path": "select/pl_01_Closer_(T-Mass_Remix)_The_Chainsmokers_ft._Halsey.txt"
+    }
+  ]
+}
